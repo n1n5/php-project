@@ -1,1 +1,1 @@
-Simple CRUD project written in php with movies database :)
+Simple CRUD project written in PHP with a movies database :)
